@@ -1,0 +1,21 @@
+{
+  "version": "26.5",
+  "serverIp": "",
+  "serverPort": 25565,
+  "minecraftVersion": "1.20.1",
+  "username": "AFKbot",
+  "dashboardPort": 3000,
+  "reconnect": {
+    "baseDelayMs": 3000,
+    "maxDelayMs": 30000
+  },
+  "movement": {
+    "circleWalkRadius": 4,
+    "circleWalkIntervalMs": 3000,
+    "jumpIntervalMs": 10000,
+    "lookAroundIntervalMs": 5000,
+    "sprintIntervalMs": 20000,
+    "crouchIntervalMs": 25000,
+    "blockPlaceIntervalMs": 30000
+  }
+}
