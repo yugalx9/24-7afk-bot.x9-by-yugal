@@ -1,14 +1,16 @@
 {
-  "version": "26.1",
-  "serverIp": "friendssmpx99.aternos.me",
-  "serverPort": 64982,
+  "version": "26.2",
+  "serverIp": "",
+  "serverPort": 25565,
   "username": "AFKbot",
   "dashboardPort": 3000,
   "movement": {
-    "wanderIntervalMs": 8000,
-    "walkDurationMs": 3000,
-    "sprintIntervalMs": 15000,
-    "crouchIntervalMs": 20000,
+    "circleWalkRadius": 4,
+    "circleWalkIntervalMs": 3000,
+    "jumpIntervalMs": 15000,
+    "lookAroundIntervalMs": 6000,
+    "sprintIntervalMs": 20000,
+    "crouchIntervalMs": 25000,
     "blockPlaceIntervalMs": 30000
   }
 }

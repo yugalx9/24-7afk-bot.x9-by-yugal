@@ -1,4 +1,4 @@
-# AFKbot 🤖 — v26.1
+# AFKbot 🤖 — v26.2
 
 A lightweight AFK bot for Minecraft Java Edition with a neon cyberpunk dashboard.
 No pathfinding, no combat, no mining — just wandering, eating, and occasional
@@ -69,7 +69,7 @@ sitting at the top level.
 7. Tap **Generate Domain**. Railway gives you a web address (like
    `afkbot-production.up.railway.app`).
 8. Open that address in your phone browser — you'll see your neon dashboard,
-   with the version number (v26.1) shown right next to the title. ✨
+   with the version number (v26.2) shown right next to the title. ✨
 
 ### Part 4: Start your Minecraft server first
 
