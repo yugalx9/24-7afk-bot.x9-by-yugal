@@ -1,7 +1,7 @@
 {
   "version": "26.1",
-  "serverIp": "",
-  "serverPort": 25565,
+  "serverIp": "friendssmpx99.aternos.me",
+  "serverPort": 64982,
   "username": "AFKbot",
   "dashboardPort": 3000,
   "movement": {
